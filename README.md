@@ -1,6 +1,6 @@
 ## 8.4 Batch Maker
 An application for cooks to sign up & log in, create & edit recipes, and scale recipes larger or smaller.
-## Not finished
+## Project not finished.
 
 Technical Toolbox
 
